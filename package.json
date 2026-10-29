@@ -1,0 +1,17 @@
+{
+  "name": "premium-portfolio",
+  "version": "1.0.0",
+  "description": "Modern personal portfolio with frontend and backend contact API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
